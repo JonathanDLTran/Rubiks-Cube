@@ -155,7 +155,7 @@ let lateral_move direction faces column =
     {faces with top = top; bottom = bottom; left = left; right = right}
   end
 
-
+(*TODO : left_right_move and up_down_move*)
 
 
 
